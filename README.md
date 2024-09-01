@@ -1,7 +1,7 @@
 # roadmap-Basic-Dockerfile 
 
 ## Project Details
-[Visit the link to see the project details]([https://roadmap.sh/projects/basic-dockerfile](https://roadmap.sh/projects/basic-dockerfile)) 
+[Visit the link to see the project details](https://roadmap.sh/projects/basic-dockerfile) 
 
 ## Setup Instructions
 
